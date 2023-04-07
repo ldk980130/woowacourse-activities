@@ -43,6 +43,16 @@
 | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/ldk980130/jwp-dashboard-jdbc/tree/step2) | [jwp-dashboard-jdbc/pull/54](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/54)   | [jwp-dashboard-jdbc/pull/194](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/194) |                                                                                         |
 | 레거시 코드 리팩터링 | [jwp-refactoring](https://github.com/ldk980130/jwp-refactoring/tree/step3)       | [jwp-refactoring/pull/221 ](https://github.com/woowacourse/jwp-refactoring/pull/221)      | [jwp-refactoring/pull/284 ](https://github.com/woowacourse/jwp-refactoring/pull/284)      | [jwp-refactoring/pull/391 ](https://github.com/woowacourse/jwp-refactoring/pull/391)    |
 
+### 👨🏻‍💻 나의 코드 리뷰
+
+| Mission | 1차 코드 리뷰                                                                                         | 2차 코드 리뷰                                                                                         | 3차 코드 리뷰                                                                                         |
+| --- |--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 톰캣 구현하기 | [1차 리뷰](https://github.com/woowacourse/jwp-dashboard-http/pull/108#pullrequestreview-1094316616) | [2차 리뷰](https://github.com/woowacourse/jwp-dashboard-http/pull/196#pullrequestreview-1097045770) | [3차 리뷰](https://github.com/woowacourse/jwp-dashboard-http/pull/227#pullrequestreview-1099009853) |
+| MVC 구현하기 | [1차 리뷰](https://github.com/woowacourse/jwp-dashboard-mvc/pull/136#pullrequestreview-1111784191)  | [2차 리뷰](https://github.com/woowacourse/jwp-dashboard-mvc/pull/265#pullrequestreview-1120000044)  |                                                                                                  |
+| JDBC 라이브러리 구현하기 | [1차 리뷰](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/128#pullrequestreview-1129776881) | [2차 리뷰](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/252#pullrequestreview-1138552051) | [3차 리뷰](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/259#pullrequestreview-1144973299) |
+| 레거시 코드 리팩터링 | [1차 리뷰](https://github.com/woowacourse/jwp-refactoring/pull/205#pullrequestreview-1152952541)    | [2차 리뷰](https://github.com/woowacourse/jwp-refactoring/pull/349#pullrequestreview-1160948124)    | [3차 리뷰](https://github.com/woowacourse/jwp-refactoring/pull/401#pullrequestreview-1166415575)    |
+
+
 ## 📘 스터디
 
 | Study | Repository                                                                                              |
@@ -53,3 +63,12 @@
 ## 📽️ 테코톡
 
 ### [더즈, 티키의 Classic TDD vs Mockist TDD](https://youtu.be/n01foM9tsRo)
+
+## 📃 글쓰기 미션
+
+| 레벨 | 주제                                                                                          |
+| --- |---------------------------------------------------------------------------------------------|
+| Level 1 | [우아한테크코스 한 달 생활기](https://github.com/ldk980130/woowa-writing-4/blob/level4/level1.md)       |
+| Level 2 | [우테코에서 찾은 나만의 효과적인 공부법](https://github.com/ldk980130/woowa-writing-4/blob/level4/level2.md) |
+| Level 3 | [팀 프로젝트가 나에게 남긴 것](https://github.com/ldk980130/woowa-writing-4/blob/level4/level3.md)      |
+| Level 4 | [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/ldk980130/woowa-writing-4/blob/level4/level4.md)     |
